@@ -1,0 +1,7 @@
+{
+  "name": "ionProt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
